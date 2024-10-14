@@ -1,2 +1,4 @@
 # Currency
-# HAHAHA
+bye
+hi
+the first
